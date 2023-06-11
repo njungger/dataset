@@ -1,0 +1,22 @@
+{"tempat_ibadah":[
+{"id":1,"nama":"Masjid Cheng Ho","jenis":"masjid","latitude":"-6.555715","longitude":"107.441069"},
+{"id":2,"nama":"Masjid Agung Sunan Ampel","jenis":"masjid","latitude":"-6.568281","longitude":"107.460187"},
+{"id":3,"nama":"Masjid Agung Al Akbar","jenis":"masjid","latitude":"-6.517406","longitude":"107.458874"},
+{"id":4,"nama":"Masjid Baiturrozaq","jenis":"masjid","latitude":"-6.540798","longitude":"107.450479"},
+{"id":5,"nama":"Masjid Al Fatah","jenis":"masjid","latitude":"-6.535826","longitude":"107.441243"},
+{"id":6,"nama":"Masjid Alfalah Sadang","jenis":"masjid","latitude":"-6.511294","longitude":"107.463167"},
+{"id":7,"nama":"Gereja Katolik Salib Suci","jenis":"gereja","latitude":"-6.548138","longitude":"107.443050"},
+{"id":8,"nama":"Gereja Kristen Pasundan","jenis":"gereja","latitude":"-6.541798","longitude":"107.443805"},
+{"id":9,"nama":"Gereja HKBP Purwakarta","jenis":"gereja","latitude":"-6.517572","longitude":"107.450441"},
+{"id":10,"nama":"Gereja Katolik Santa Maria","jenis":"gereja","latitude":"-6.444024","longitude":"107.467852"},
+{"id":11,"nama":"Gereja Sidang Pantekosta","jenis":"gereja","latitude":"-6.535050","longitude":"107.446094"},
+{"id":12,"nama":"Gereja Kristus Purwakarta","jenis":"gereja","latitude":"-6.546125","longitude":"107.443392"},
+{"id":13,"nama":"Vihara Budi Dharma","jenis":"vihara","latitude":"-6.543540","longitude":"107.443548"},
+{"id":14,"nama":"Kelenteng Budii Asih","jenis":"vihara","latitude":"-6.559441","longitude":"107.436462"},
+{"id":15,"nama":"Masjid Al Misbah","jenis":"masjid","latitude":"-6.538675","longitude":"107.449975"},
+{"id":16,"nama":"Masjid Al Khairat","jenis":"masjid","latitude":"-6.515617","longitude":"107.470023"},
+{"id":17,"nama":"Masjid Al-Furqon","jenis":"masjid","latitude":"-6.542224","longitude":"107.461202"},
+{"id":18,"nama":"MASJID HAYATUL HASANAH","jenis":"masjid","latitude":"-6.534144","longitude":"107.441164"},
+{"id":19,"nama":"Masjid Jami Darussalam","jenis":"masjid","latitude":"-6.568636","longitude":"107.457187"},
+{"id":20,"nama":"Masjid Almuhajirin","jenis":"masjid","latitude":"-6.552657","longitude":"107.445260"}
+]}
