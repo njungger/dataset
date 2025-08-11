@@ -1,0 +1,2 @@
+,Hidden Layer Size,Max Iteration,N_Estimator,Accuracy,Recall,Precision,F1-Score
+0,25,250,8,0.8860759493670886,0.88,0.9361702127659575,0.9072164948453608
